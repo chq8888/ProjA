@@ -1,4 +1,4 @@
-# NewtonBank-SYSMJ1-Grupp2
+Bank
 
 Projektuppgiften går ut på att ta fram ett enkelt system för en
 bank. Banken har ett antal kunder och varje kund kan ha
@@ -14,5 +14,4 @@ tillhörande databas
 
 Setup instruktion finns på /Filer/setup.txt
 
-Gruppsmedlemmar: Hampus B, Åsa W, Anna N, Cam H, Hamid R
 
