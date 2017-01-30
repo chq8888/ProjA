@@ -1,0 +1,19 @@
+
+Det finns 2 alternative för att köra applikationen
+1) kör som en executable jar
+2) pull ner projekt och köra i eclipse
+
+
+Alternativ 1
+ 1. clona ner projektet från denna repo i din hårddisk (zip format)
+ 2. Extrahera zip filen till en mapp
+ 3. Öppna ./Filer/CreateDBScript.sql i MySQLWorkbench och kör scripten för att skapa NewtonBank databasen
+ 4. Kör applikationen ./Filer/NewtonBank-SYSMJ1-Grupp2.jar och testa de olika funktionalitet
+ 
+Alternativ 2
+ 1. clona ner projektet från denna repo i din hårddisk
+ 2. Öppna ./Filer/CreateDBScript.sql i MySQLWorkbench och kör scripten för att skapa NewtonBank databasen
+ 3. skapa ett Java projekt i eclipse och välj den clonade mappen som destination directory
+ 4. lägg till JUnit i build path och MySQL JBDC som external JAR i build path
+ 5. köra MainFrame.java som är applicationen GUI
+ 6. Testa funktionalitet i GUI 
